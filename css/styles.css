@@ -1,3 +1,31 @@
-h2 {
-background-color: antiquewhite;
+#intro {
+    text-align: left;
+    color: #b8d3bfd0;
+}
+
+
+#hobby {
+    text-align: center;
+    font-size: 150%;
+    float: left;
+    width: 60%;
+}
+
+* {
+    text-align: center;
+    color: #71647a;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100%;
+    width: 95%;
+    margin: 20px;
+    padding: 6px;
+}
+
+h1 {
+    color: #566573;
+}
+
+.coding {
+    text-align: left;
+    color: #29b94dd0;
 }
