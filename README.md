@@ -14,7 +14,7 @@ Dennis Mwangi
 Description;
 
 Setup/Installation Requirements;
-* click this link; https://github.com/Dennis-M137/week1/blob/master/index.html
+* click this link; https://github.com/Dennis-M137/week1
 * Navigate to 'clone or download' button.
 * Run the appiliction using preferably google chrome
 * Enjoy reading the facts!
